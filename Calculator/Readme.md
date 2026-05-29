@@ -30,7 +30,7 @@ A lightweight web-based calculator built with HTML, CSS, and JavaScript.
 - Keep input limited to valid calculator expressions to avoid errors.
 
 ## Live Demo
-https://itsvineetmaurya7.github.io/Codsoft/Calculator/
+https://itsvineetmaurya7.github.io/CodSoft/Calculator/
 
 ## License
 

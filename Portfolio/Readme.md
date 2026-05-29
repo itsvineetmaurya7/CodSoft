@@ -19,6 +19,9 @@ Hello! I'm Vineet Kumar, a BCA student and beginner web developer. This is my po
 - **Restaurant Menu** - A simple restaurant menu using HTML and CSS
 - **Calculator Website** - A calculator built with HTML, CSS, and JavaScript
 
+## Live Demo
+https://itsvineetmaurya7.github.io/CodSoft/Portfolio/
+
 ## Contact
 
 - Email: vk77699729@gmail.com

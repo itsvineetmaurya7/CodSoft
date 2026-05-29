@@ -8,6 +8,7 @@ Welcome to the **Codsoft** repository. This repo contains three small web develo
 - Location: `calculator/`
 - A simple web-based calculator.
 - Includes functionality for basic arithmetic operations like addition, subtraction, multiplication, and division.
+- Live Demo : https://itsvineetmaurya7.github.io/CodSoft/Calculator/
 - Files:
   - `index.html`
   - `style.css`
@@ -22,6 +23,7 @@ Welcome to the **Codsoft** repository. This repo contains three small web develo
   - `style.css`
   - `Readme.md`
   - `images/` (assets used by the landing page)
+- Live Demo : https://itsvineetmaurya7.github.io/CodSoft/LandingPage/
 
 ### 3. Portfolio Project
 - Location: `Portfolio Project/`
@@ -32,6 +34,7 @@ Welcome to the **Codsoft** repository. This repo contains three small web develo
   - `style.css`
   - `README.md`
   - `Asset/` (supporting images or files)
+- Live Demo : https://itsvineetmaurya7.github.io/CodSoft/Portfolio/
 
 ## How to Use
 1. Open the project folder you want to view.

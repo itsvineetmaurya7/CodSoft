@@ -29,6 +29,9 @@ A lightweight web-based calculator built with HTML, CSS, and JavaScript.
 - This project uses JavaScript's `eval()` function to evaluate expressions. It is intended for a simple local calculator demo.
 - Keep input limited to valid calculator expressions to avoid errors.
 
+## Live Demo
+https://itsvineetmaurya7.github.io/Codsoft/Calculator/
+
 ## License
 
 This project is open for personal use and learning.

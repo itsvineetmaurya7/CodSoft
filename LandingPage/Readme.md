@@ -24,6 +24,10 @@ A responsive restaurant landing page built with HTML and CSS. It features a hero
 2. Scroll through the page to view the about section, menu, reviews, and contact details.
 3. Use the navigation links to jump to different sections of the page.
 
+## Live Demo
+https://itsvineetmaurya7.github.io/CodSoft/LandingPage/
+
+
 ## Notes
 
 - The page is built using pure HTML and CSS with no JavaScript.
